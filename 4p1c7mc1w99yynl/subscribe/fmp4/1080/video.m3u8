@@ -3,15 +3,15 @@
 ## Generated with https://github.com/google/shaka-packager version v2.6.1-634af65-release
 #EXT-X-TARGETDURATION:8
 #EXT-X-PLAYLIST-TYPE:VOD
-#EXT-X-MAP:URI="video_init.mp4"
+#EXT-X-MAP:URI="https://raw.githubusercontent.com/live130/static/refs/heads/main/4p1c7mc1w99yynl/subscribe/fmp4/1080/video_init.mp4"
 #EXTINF:7.500,
-video_1.m4s
+https://raw.githubusercontent.com/live130/static/refs/heads/main/4p1c7mc1w99yynl/subscribe/fmp4/1080/video_1.m4s
 #EXTINF:7.500,
-video_2.m4s
+https://raw.githubusercontent.com/live130/static/refs/heads/main/4p1c7mc1w99yynl/subscribe/fmp4/1080/video_2.m4s
 #EXTINF:7.500,
-video_3.m4s
+https://raw.githubusercontent.com/live130/static/refs/heads/main/4p1c7mc1w99yynl/subscribe/fmp4/1080/video_3.m4s
 #EXTINF:7.500,
-video_4.m4s
+https://raw.githubusercontent.com/live130/static/refs/heads/main/4p1c7mc1w99yynl/subscribe/fmp4/1080/video_4.m4s
 #EXTINF:1.320,
-video_5.m4s
+https://raw.githubusercontent.com/live130/static/refs/heads/main/4p1c7mc1w99yynl/subscribe/fmp4/1080/video_5.m4s
 #EXT-X-ENDLIST

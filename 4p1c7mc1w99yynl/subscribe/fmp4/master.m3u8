@@ -3,11 +3,11 @@
 
 #EXT-X-INDEPENDENT-SEGMENTS
 
-#EXT-X-MEDIA:TYPE=AUDIO,URI="audio/audio.m3u8",GROUP-ID="default-audio-group",NAME="stream_0",AUTOSELECT=YES,CHANNELS="2"
+#EXT-X-MEDIA:TYPE=AUDIO,URI="https://raw.githubusercontent.com/live130/static/refs/heads/main/4p1c7mc1w99yynl/subscribe/fmp4/audio/audio.m3u8",GROUP-ID="default-audio-group",NAME="stream_0",AUTOSELECT=YES,CHANNELS="2"
 
 #EXT-X-STREAM-INF:BANDWIDTH=2047292,AVERAGE-BANDWIDTH=1965801,CODECS="avc1.640020,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=33.333,VIDEO-RANGE=SDR,AUDIO="default-audio-group",CLOSED-CAPTIONS=NONE
-720/video.m3u8
+https://raw.githubusercontent.com/live130/static/refs/heads/main/4p1c7mc1w99yynl/subscribe/fmp4/720/video.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1064981,AVERAGE-BANDWIDTH=1001511,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=33.333,VIDEO-RANGE=SDR,AUDIO="default-audio-group",CLOSED-CAPTIONS=NONE
-480/video.m3u8
+https://raw.githubusercontent.com/live130/static/refs/heads/main/4p1c7mc1w99yynl/subscribe/fmp4/480/video.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2941146,AVERAGE-BANDWIDTH=2896636,CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=33.333,VIDEO-RANGE=SDR,AUDIO="default-audio-group",CLOSED-CAPTIONS=NONE
-1080/video.m3u8
+https://raw.githubusercontent.com/live130/static/refs/heads/main/4p1c7mc1w99yynl/subscribe/fmp4/1080/video.m3u8

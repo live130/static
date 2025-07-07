@@ -3,17 +3,17 @@
 ## Generated with https://github.com/google/shaka-packager version v2.6.1-634af65-release
 #EXT-X-TARGETDURATION:8
 #EXT-X-PLAYLIST-TYPE:VOD
-#EXT-X-MAP:URI="audio_init.mp4"
+#EXT-X-MAP:URI="https://raw.githubusercontent.com/live130/static/refs/heads/main/4p1c7mc1w99yynl/subscribe/fmp4/audio/audio_init.mp4"
 #EXTINF:6.016,
-audio_1.m4s
+https://raw.githubusercontent.com/live130/static/refs/heads/main/4p1c7mc1w99yynl/subscribe/fmp4/audio/audio_1.m4s
 #EXTINF:5.995,
-audio_2.m4s
+https://raw.githubusercontent.com/live130/static/refs/heads/main/4p1c7mc1w99yynl/subscribe/fmp4/audio/audio_2.m4s
 #EXTINF:5.995,
-audio_3.m4s
+https://raw.githubusercontent.com/live130/static/refs/heads/main/4p1c7mc1w99yynl/subscribe/fmp4/audio/audio_3.m4s
 #EXTINF:5.995,
-audio_4.m4s
+https://raw.githubusercontent.com/live130/static/refs/heads/main/4p1c7mc1w99yynl/subscribe/fmp4/audio/audio_4.m4s
 #EXTINF:6.016,
-audio_5.m4s
+https://raw.githubusercontent.com/live130/static/refs/heads/main/4p1c7mc1w99yynl/subscribe/fmp4/audio/audio_5.m4s
 #EXTINF:1.323,
-audio_6.m4s
+https://raw.githubusercontent.com/live130/static/refs/heads/main/4p1c7mc1w99yynl/subscribe/fmp4/audio/audio_6.m4s
 #EXT-X-ENDLIST
